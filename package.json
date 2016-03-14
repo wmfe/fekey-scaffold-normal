@@ -1,0 +1,25 @@
+{
+  "name": "fekey-scaffold-normal",
+  "version": "1.0.0",
+  "description": "normal template for fekey scaffold",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wmfe/fekey-scaffold-normal.git"
+  },
+  "keywords": [
+    "fekey",
+    "scaffold"
+  ],
+  "author": "fex",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/wmfe/fekey-scaffold-normal/issues"
+  },
+  "homepage": "https://github.com/wmfe/fekey-scaffold-normal",
+  "dependencies": {
+  }
+}
